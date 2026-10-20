@@ -34,4 +34,4 @@ If the page is served from a different origin than the device, the firmware must
 
 ## License
 
-No license has been specified yet. Contact the author before reusing this code.
+MIT. See [LICENSE](LICENSE).
